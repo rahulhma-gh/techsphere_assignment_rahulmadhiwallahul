@@ -1,0 +1,5 @@
+"Department_Id";"total_employees";"total_projects";"high_satisfaction_projects";"medium_satisfaction_projects";"low_satisfaction_projects";"total_trainings";"trainings_completed";"avg_feedback_score"
+"Dpt001";45;47;18.0;14.0;15.0;48;25.0;3.99
+"Dpt002";55;61;19.0;21.0;21.0;60;23.0;3.91
+"Dpt003";54;55;17.0;18.0;20.0;49;29.0;3.89
+"Dpt004";49;41;15.0;13.0;13.0;43;23.0;3.95

@@ -1,0 +1,131 @@
+"employee_id";"employee_name";"technologies_covered";"project_name";"Project Risk Score";"Client_Satisfaction";"milestones_achieved";"budget"
+923;"Yuvaan Chand";"Aws, Power Bi";"Data Migration";4;"High";9;489616
+635;"Raunak Sarin";"Power Bi, Azure";"Infrastructure Upgrade";2;"Low";9;486358
+635;"Raunak Sarin";"Power Bi, Azure";"Infrastructure Upgrade";10;"High";11;486353
+856;"Divit Wadhwa";"Azure, Aws";"Mobile App Development";3;"Low";5;473200
+341;"Raghav Sastry";"Power Bi, Ccna";"Mobile App Development";3;"High";4;438730
+341;"Raghav Sastry";"Power Bi, Azure";"Mobile App Development";3;"High";4;438730
+341;"Raghav Sastry";"Aws, Cisco Routers";"Mobile App Development";3;"High";4;438730
+341;"Raghav Sastry";"Ccna, Cisco Routers";"Mobile App Development";3;"High";4;438730
+661;"Advika Choudhary";"Ccna, Aws";"Web Application Revamp";7;"Low";6;435302
+661;"Advika Choudhary";"Azure, Aws";"Web Application Revamp";7;"Low";6;435302
+661;"Advika Choudhary";"Aws, Cisco Routers";"Web Application Revamp";7;"Low";6;435302
+661;"Advika Choudhary";"Ccna, Aws";"Web Application Revamp";7;"Low";6;435302
+661;"Advika Choudhary";"Azure, Aws";"Web Application Revamp";7;"Low";6;435302
+661;"Advika Choudhary";"Aws, Cisco Routers";"Web Application Revamp";7;"Low";6;435302
+661;"Advika Choudhary";"Ccna, Aws";"Web Application Revamp";7;"Low";6;435302
+661;"Advika Choudhary";"Azure, Aws";"Web Application Revamp";7;"Low";6;435302
+661;"Advika Choudhary";"Aws, Cisco Routers";"Web Application Revamp";7;"Low";6;435302
+675;"Aaina Bumb";"Azure, Power Bi";"Mobile App Development";4;"Medium";7;423898
+675;"Aaina Bumb";"Aws, Azure";"Mobile App Development";4;"Medium";7;423898
+675;"Aaina Bumb";"Aws, Cisco Routers";"Mobile App Development";4;"Medium";7;423898
+675;"Aaina Bumb";"Azure, Power Bi";"Mobile App Development";4;"Medium";7;423898
+675;"Aaina Bumb";"Aws, Azure";"Mobile App Development";4;"Medium";7;423898
+675;"Aaina Bumb";"Aws, Cisco Routers";"Mobile App Development";4;"Medium";7;423898
+624;"Riaan Kunda";"Power Bi, Cisco Routers";"Infrastructure Upgrade";2;"Low";7;423158
+624;"Riaan Kunda";"Power Bi, Azure";"Infrastructure Upgrade";2;"Low";7;423158
+624;"Riaan Kunda";"Aws, Azure";"Infrastructure Upgrade";2;"Low";7;423158
+624;"Riaan Kunda";"Power Bi, Cisco Routers";"Infrastructure Upgrade";2;"Low";7;423158
+624;"Riaan Kunda";"Power Bi, Cisco Routers";"Infrastructure Upgrade";2;"Low";7;423158
+624;"Riaan Kunda";"Power Bi, Azure";"Infrastructure Upgrade";2;"Low";7;423158
+624;"Riaan Kunda";"Aws, Azure";"Infrastructure Upgrade";2;"Low";7;423158
+624;"Riaan Kunda";"Power Bi, Cisco Routers";"Infrastructure Upgrade";2;"Low";7;423158
+624;"Riaan Kunda";"Power Bi, Cisco Routers";"Mobile App Development";2;"High";9;363371
+624;"Riaan Kunda";"Power Bi, Azure";"Mobile App Development";2;"High";9;363371
+624;"Riaan Kunda";"Aws, Azure";"Mobile App Development";2;"High";9;363371
+624;"Riaan Kunda";"Power Bi, Cisco Routers";"Mobile App Development";2;"High";9;363371
+624;"Riaan Kunda";"Power Bi, Cisco Routers";"Mobile App Development";2;"High";9;363371
+624;"Riaan Kunda";"Power Bi, Azure";"Mobile App Development";2;"High";9;363371
+624;"Riaan Kunda";"Aws, Azure";"Mobile App Development";2;"High";9;363371
+624;"Riaan Kunda";"Power Bi, Cisco Routers";"Mobile App Development";2;"High";9;363371
+563;"Zoya Badal";"Azure, Power Bi";"Infrastructure Upgrade";7;"Medium";7;358455
+719;"Vaibhav Devi";"Azure, Power Bi";"Web Application Revamp";3;"Low";8;354858
+719;"Vaibhav Devi";"Ccna, Cisco Routers";"Web Application Revamp";3;"Low";8;354858
+719;"Vaibhav Devi";"Azure, Power Bi";"Web Application Revamp";3;"Low";8;354858
+719;"Vaibhav Devi";"Power Bi, Azure";"Web Application Revamp";3;"Low";8;354858
+719;"Vaibhav Devi";"Azure, Power Bi";"Web Application Revamp";3;"Low";8;354858
+719;"Vaibhav Devi";"Ccna, Cisco Routers";"Web Application Revamp";3;"Low";8;354858
+719;"Vaibhav Devi";"Azure, Power Bi";"Web Application Revamp";3;"Low";8;354858
+719;"Vaibhav Devi";"Power Bi, Azure";"Web Application Revamp";3;"Low";8;354858
+719;"Vaibhav Devi";"Azure, Power Bi";"Web Application Revamp";3;"Low";8;354858
+719;"Vaibhav Devi";"Ccna, Cisco Routers";"Web Application Revamp";3;"Low";8;354858
+719;"Vaibhav Devi";"Azure, Power Bi";"Web Application Revamp";3;"Low";8;354858
+719;"Vaibhav Devi";"Power Bi, Azure";"Web Application Revamp";3;"Low";8;354858
+575;"Neysa Sahota";"Azure, Aws";"Mobile App Development";3;"High";9;327527
+375;"Aarna Arora";"Aws, Azure";"Web Application Revamp";7;"High";8;320984
+982;"Ivana Tank";"Azure, Aws";"Mobile App Development";1;"Low";2;274751
+982;"Ivana Tank";"Cisco Routers, Azure";"Mobile App Development";1;"Low";2;274751
+982;"Ivana Tank";"Aws, Azure";"Mobile App Development";1;"Low";2;274751
+982;"Ivana Tank";"Cisco Routers, Ccna";"Mobile App Development";1;"Low";2;274751
+982;"Ivana Tank";"Azure, Aws";"Mobile App Development";1;"Low";2;274751
+982;"Ivana Tank";"Cisco Routers, Azure";"Mobile App Development";1;"Low";2;274751
+982;"Ivana Tank";"Aws, Azure";"Mobile App Development";1;"Low";2;274751
+982;"Ivana Tank";"Cisco Routers, Ccna";"Mobile App Development";1;"Low";2;274751
+982;"Ivana Tank";"Azure, Aws";"Web Application Revamp";8;"Medium";4;265808
+982;"Ivana Tank";"Cisco Routers, Azure";"Web Application Revamp";8;"Medium";4;265808
+982;"Ivana Tank";"Aws, Azure";"Web Application Revamp";8;"Medium";4;265808
+982;"Ivana Tank";"Cisco Routers, Ccna";"Web Application Revamp";8;"Medium";4;265808
+982;"Ivana Tank";"Azure, Aws";"Web Application Revamp";8;"Medium";4;265808
+982;"Ivana Tank";"Cisco Routers, Azure";"Web Application Revamp";8;"Medium";4;265808
+982;"Ivana Tank";"Aws, Azure";"Web Application Revamp";8;"Medium";4;265808
+982;"Ivana Tank";"Cisco Routers, Ccna";"Web Application Revamp";8;"Medium";4;265808
+794;"Charvi Mander";"Power Bi, Aws";"Web Application Revamp";9;"Low";4;252999
+794;"Charvi Mander";"Ccna, Azure";"Web Application Revamp";9;"Low";4;252999
+794;"Charvi Mander";"Cisco Routers, Azure";"Web Application Revamp";9;"Low";4;252999
+794;"Charvi Mander";"Power Bi, Aws";"Web Application Revamp";9;"Low";4;252999
+794;"Charvi Mander";"Ccna, Azure";"Web Application Revamp";9;"Low";4;252999
+794;"Charvi Mander";"Cisco Routers, Azure";"Web Application Revamp";9;"Low";4;252999
+794;"Charvi Mander";"Power Bi, Aws";"Web Application Revamp";1;"Low";9;252996
+794;"Charvi Mander";"Ccna, Azure";"Web Application Revamp";1;"Low";9;252996
+794;"Charvi Mander";"Cisco Routers, Azure";"Web Application Revamp";1;"Low";9;252996
+794;"Charvi Mander";"Power Bi, Aws";"Web Application Revamp";1;"Low";9;252996
+794;"Charvi Mander";"Ccna, Azure";"Web Application Revamp";1;"Low";9;252996
+794;"Charvi Mander";"Cisco Routers, Azure";"Web Application Revamp";1;"Low";9;252996
+911;"Madhav Ben";"Aws, Ccna";"Web Application Revamp";2;"High";6;233433
+624;"Riaan Kunda";"Power Bi, Cisco Routers";"Mobile App Development";6;"Medium";4;205639
+624;"Riaan Kunda";"Power Bi, Azure";"Mobile App Development";6;"Medium";4;205639
+624;"Riaan Kunda";"Aws, Azure";"Mobile App Development";6;"Medium";4;205639
+624;"Riaan Kunda";"Power Bi, Cisco Routers";"Mobile App Development";6;"Medium";4;205639
+624;"Riaan Kunda";"Power Bi, Cisco Routers";"Mobile App Development";6;"Medium";4;205639
+624;"Riaan Kunda";"Power Bi, Azure";"Mobile App Development";6;"Medium";4;205639
+624;"Riaan Kunda";"Aws, Azure";"Mobile App Development";6;"Medium";4;205639
+624;"Riaan Kunda";"Power Bi, Cisco Routers";"Mobile App Development";6;"Medium";4;205639
+929;"Hridaan Master";"Aws, Cisco Routers";"Web Application Revamp";3;"High";2;156014
+929;"Hridaan Master";"Azure, Ccna";"Web Application Revamp";3;"High";2;156014
+929;"Hridaan Master";"Cisco Routers, Aws";"Web Application Revamp";3;"High";2;156014
+661;"Advika Choudhary";"Ccna, Aws";"Web Application Revamp";5;"Low";9;154144
+661;"Advika Choudhary";"Azure, Aws";"Web Application Revamp";5;"Low";9;154144
+661;"Advika Choudhary";"Aws, Cisco Routers";"Web Application Revamp";5;"Low";9;154144
+661;"Advika Choudhary";"Ccna, Aws";"Web Application Revamp";5;"Low";9;154144
+661;"Advika Choudhary";"Azure, Aws";"Web Application Revamp";5;"Low";9;154144
+661;"Advika Choudhary";"Aws, Cisco Routers";"Web Application Revamp";5;"Low";9;154144
+661;"Advika Choudhary";"Ccna, Aws";"Web Application Revamp";5;"Low";9;154144
+661;"Advika Choudhary";"Azure, Aws";"Web Application Revamp";5;"Low";9;154144
+661;"Advika Choudhary";"Aws, Cisco Routers";"Web Application Revamp";5;"Low";9;154144
+661;"Advika Choudhary";"Ccna, Aws";"Web Application Revamp";5;"High";12;154140
+661;"Advika Choudhary";"Azure, Aws";"Web Application Revamp";5;"High";12;154140
+661;"Advika Choudhary";"Aws, Cisco Routers";"Web Application Revamp";5;"High";12;154140
+661;"Advika Choudhary";"Ccna, Aws";"Web Application Revamp";5;"High";12;154140
+661;"Advika Choudhary";"Azure, Aws";"Web Application Revamp";5;"High";12;154140
+661;"Advika Choudhary";"Aws, Cisco Routers";"Web Application Revamp";5;"High";12;154140
+661;"Advika Choudhary";"Ccna, Aws";"Web Application Revamp";5;"High";12;154140
+661;"Advika Choudhary";"Azure, Aws";"Web Application Revamp";5;"High";12;154140
+661;"Advika Choudhary";"Aws, Cisco Routers";"Web Application Revamp";5;"High";12;154140
+719;"Vaibhav Devi";"Azure, Power Bi";"Mobile App Development";5;"Low";6;130758
+719;"Vaibhav Devi";"Ccna, Cisco Routers";"Mobile App Development";5;"Low";6;130758
+719;"Vaibhav Devi";"Azure, Power Bi";"Mobile App Development";5;"Low";6;130758
+719;"Vaibhav Devi";"Power Bi, Azure";"Mobile App Development";5;"Low";6;130758
+719;"Vaibhav Devi";"Azure, Power Bi";"Mobile App Development";5;"Low";6;130758
+719;"Vaibhav Devi";"Ccna, Cisco Routers";"Mobile App Development";5;"Low";6;130758
+719;"Vaibhav Devi";"Azure, Power Bi";"Mobile App Development";5;"Low";6;130758
+719;"Vaibhav Devi";"Power Bi, Azure";"Mobile App Development";5;"Low";6;130758
+719;"Vaibhav Devi";"Azure, Power Bi";"Mobile App Development";5;"Low";6;130758
+719;"Vaibhav Devi";"Ccna, Cisco Routers";"Mobile App Development";5;"Low";6;130758
+719;"Vaibhav Devi";"Azure, Power Bi";"Mobile App Development";5;"Low";6;130758
+719;"Vaibhav Devi";"Power Bi, Azure";"Mobile App Development";5;"Low";6;130758
+674;"Mishti Khosla";"Ccna, Azure";"Web Application Revamp";2;"Low";9;127105
+263;"Keya Hayre";"Azure, Ccna";"Data Migration";2;"Low";7;113855
+111;"Hiran Sidhu";"Ccna, Cisco Routers";"Infrastructure Upgrade";1;"Low";2;106742
+111;"Hiran Sidhu";"Cisco Routers, Azure";"Infrastructure Upgrade";1;"Low";2;106742
+111;"Hiran Sidhu";"Power Bi, Ccna";"Infrastructure Upgrade";1;"Low";2;106742
+111;"Hiran Sidhu";"Cisco Routers, Aws";"Infrastructure Upgrade";1;"Low";2;106742

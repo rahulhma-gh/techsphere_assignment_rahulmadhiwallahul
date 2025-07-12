@@ -1,0 +1,13 @@
+"Department_Id";"Client_Satisfaction";"total_projects";"unique_trained_employees";"avg_milestones_achieved";"avg_project_risk_score"
+"Dpt001";"High";15;12;4.73;5.0
+"Dpt001";"Medium";12;11;5.67;7.9
+"Dpt001";"Low";15;11;5.43;4.03
+"Dpt002";"High";15;14;7.63;4.33
+"Dpt002";"Medium";19;16;5.29;4.5
+"Dpt002";"Low";20;15;6.07;5.09
+"Dpt003";"High";14;14;5.5;5.54
+"Dpt003";"Medium";13;11;6.07;5.17
+"Dpt003";"Low";18;16;6.39;5.06
+"Dpt004";"High";10;10;6.5;4.28
+"Dpt004";"Medium";12;9;6.53;4.76
+"Dpt004";"Low";11;9;6.09;6.5
